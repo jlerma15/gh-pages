@@ -5,4 +5,4 @@
  * Date: 8/6/15
  * Time: 11:50 PM
  */
-print ('Hello people');
+print ('Hello peoples');
